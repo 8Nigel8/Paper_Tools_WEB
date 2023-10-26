@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "name": "paperplanes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8Nigel8/Paper_Tools_WEB.git"
+  },
+  "author": "CartonTeam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8Nigel8/Paper_Tools_WEB/issues"
+  },
+  "homepage": "https://github.com/8Nigel8/Paper_Tools_WEB#readme",
+  "description": ""
+}
